@@ -1,3 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element audit="true" extends="task" label="Cozen Cases" max_length="40" name="x_278895_cozen_cozen_employees" sizeclass="1" type="collection"/>
+    <element audit="true" extends="task" label="Cozen Tasks" max_length="40" name="x_278895_cozen_cozen_employees" sizeclass="1" type="collection"/>
 </database>
