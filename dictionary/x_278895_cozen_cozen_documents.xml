@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Cozen Documents" max_length="40" name="x_278895_cozen_cozen_documents" type="collection">
+        <element label="Documents" max_length="40" name="documents" type="file_attachment"/>
+        <element label="Email" max_length="200" name="email" type="string"/>
+        <element label="Matter Number" mandatory="true" max_length="200" name="matter_number" type="string"/>
+    </element>
+</database>
