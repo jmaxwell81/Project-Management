@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="case_matter_number" label="Case_Matter_Number" language="en" table="x_278895_cozen_cozen_doc">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>case_matter_number</element>
+            <help/>
+            <hint/>
+            <label>Case_Matter_Number</label>
+            <language>en</language>
+            <name>x_278895_cozen_cozen_doc</name>
+            <plural>Case_Matter_Numbers</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-17 13:31:05</sys_created_on>
+            <sys_id>a156d7c4db11230097d4f36f29961992</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Case_Matter_Number</sys_name>
+            <sys_package display_value="Cozen" source="x_278895_cozen">bf1c5e62db81230097d4f36f2996192b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Cozen">bf1c5e62db81230097d4f36f2996192b</sys_scope>
+            <sys_update_name>sys_documentation_x_278895_cozen_cozen_doc_case_matter_number_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-17 13:31:05</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

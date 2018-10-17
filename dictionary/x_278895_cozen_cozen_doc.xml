@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="Cozen Doc" max_length="40" name="x_278895_cozen_cozen_doc" sizeclass="1" type="collection">
+        <element label="Case_Matter_Number" mandatory="true" max_length="5" name="case_matter_number" type="integer"/>
+        <element choice="3" default="Criminal" label="Case_Type" max_length="200" name="case_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Criminal" sequence="0" value="Criminal"/>
+                <element inactive_on_update="false" label="Non Criminal" sequence="1" value="non criminal"/>
+            </choice>
+        </element>
+        <element label="Requested for email" mandatory="true" max_length="40" name="email" reference="sys_email" type="string"/>
+        <element attributes="timeDimension=True" label="Expercted_Finish" max_length="40" name="expercted_finish" type="glide_date_time"/>
+        <element label="Matter_Number" max_length="100" name="matter_number" type="string"/>
+        <element choice="1" label="Request_Type" mandatory="true" max_length="200" name="request_type" type="choice">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Case Name" mandatory="true" max_length="200" name="u_case_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Client" mandatory="true" max_length="100" name="u_client" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Have you ever been a convicted of felony?" mandatory="true" max_length="40" name="u_question1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Requested for email" mandatory="true" max_length="40" name="u_requested_for_email" type="string"/>
+        <element label="When Needed" mandatory="true" max_length="40" name="u_when_needed" type="glide_date_time"/>
+    </element>
+</database>
