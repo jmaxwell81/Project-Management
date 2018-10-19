@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="hasLabels=true" audit="true" extends="task" label="Cozen Doc" max_length="40" name="x_278895_cozen_cozen_doc" sizeclass="2" type="collection">
+        <element label="Case Matter Number" mandatory="true" max_length="200" name="case_matter_number" type="string"/>
+        <element choice="3" default="Criminal" label="Case Type" max_length="200" name="case_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Criminal" sequence="0" value="Criminal"/>
+                <element inactive_on_update="false" label="Non Criminal" sequence="1" value="non criminal"/>
+            </choice>
+        </element>
+        <element label="Client Contact Information" max_length="40" name="contact_info" type="file_attachment"/>
+        <element attributes="edge_encryption_enabled=true" label="How documents in total?" max_length="40" name="dp_1" type="string"/>
+        <element label="Requested for email" mandatory="true" max_length="40" name="email" reference="sys_email" type="string"/>
+        <element label="Email" mandatory="true" max_length="40" name="email_address" reference="sn_bm_client_user_profile" reference_qual="emailISNOTEMPTY^EQ" reference_qual_condition="emailISNOTEMPTY^EQ" type="reference"/>
+        <element attributes="timeDimension=True" label="Expected Finish" mandatory="true" max_length="40" name="expercted_finish" type="glide_date_time"/>
+        <element label="Matter_Number" max_length="100" name="matter_number" type="string"/>
+        <element label="Requested for email" mandatory="true" max_length="40" name="requested_for_email" read_only="true" type="string"/>
+        <element choice="1" label="Request_Type" mandatory="true" max_length="200" name="request_type" type="choice">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Case Name" mandatory="true" max_length="200" name="u_case_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Client" mandatory="true" max_length="100" name="u_client" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Email Address" mandatory="true" max_length="40" name="u_email_address" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Has client convicted Felony?" mandatory="true" max_length="40" name="u_question1" type="string"/>
+        <element label="Assign To" mandatory="true" max_length="32" name="u_requested_for" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Email" mandatory="true" max_length="40" name="u_requested_for_email" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="How many documents in total" mandatory="true" max_length="30" name="u_string_3" type="string"/>
+        <element label="Start Date" mandatory="true" max_length="40" name="u_when_needed" type="glide_date_time"/>
+    </element>
+</database>

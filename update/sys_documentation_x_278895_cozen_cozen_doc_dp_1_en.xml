@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="dp_1" label="How documents in total?" language="en" table="x_278895_cozen_cozen_doc">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>dp_1</element>
+            <help/>
+            <hint/>
+            <label>How documents in total?</label>
+            <language>en</language>
+            <name>x_278895_cozen_cozen_doc</name>
+            <plural>How documents in total?s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-17 20:41:45</sys_created_on>
+            <sys_id>5ee8bc94db15230097d4f36f299619cf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>How documents in total?</sys_name>
+            <sys_package display_value="Cozen" source="x_278895_cozen">bf1c5e62db81230097d4f36f2996192b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Cozen">bf1c5e62db81230097d4f36f2996192b</sys_scope>
+            <sys_update_name>sys_documentation_x_278895_cozen_cozen_doc_dp_1_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-17 20:41:45</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

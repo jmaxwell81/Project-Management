@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="95c81748db11230097d4f36f29961961" sys_domain="global" table="x_278895_cozen_cozen_doc" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-17 13:41:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9dc81748db11230097d4f36f29961963</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_278895_cozen_cozen_doc" name="x_278895_cozen_cozen_doc" sys_domain="global" view="Default view">95c81748db11230097d4f36f29961961</sys_ui_form>
+            <sys_ui_section caption="Cozen Case File" display_value="Cozen Case File" name="x_278895_cozen_cozen_doc" sys_domain="global" view="Default view">9dc8d348db11230097d4f36f2996191b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-17 13:41:43</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-17 20:12:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>95327c50db15230097d4f36f299619a7</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_278895_cozen_cozen_doc" name="x_278895_cozen_cozen_doc" sys_domain="global" view="Default view">95c81748db11230097d4f36f29961961</sys_ui_form>
+            <sys_ui_section caption="Questioning Phase" display_value="Questioning Phase" name="x_278895_cozen_cozen_doc" sys_domain="global" view="Default view">9d323c50db15230097d4f36f2996192e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-17 20:12:28</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-17 20:43:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4a49b0d4db15230097d4f36f299619a2</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_278895_cozen_cozen_doc" name="x_278895_cozen_cozen_doc" sys_domain="global" view="Default view">95c81748db11230097d4f36f29961961</sys_ui_form>
+            <sys_ui_section caption="Discovery Phase" display_value="Discovery Phase" name="x_278895_cozen_cozen_doc" sys_domain="global" view="Default view">4249b0d4db15230097d4f36f29961986</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-17 20:43:23</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-17 13:41:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>99c81748db11230097d4f36f29961964</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_278895_cozen_cozen_doc" name="x_278895_cozen_cozen_doc" sys_domain="global" view="Default view">95c81748db11230097d4f36f29961961</sys_ui_form>
+            <sys_ui_section caption="Checklist" display_value="Checklist" name="x_278895_cozen_cozen_doc" sys_domain="global" view="Default view">d5c8d348db11230097d4f36f2996191c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-17 20:41:45</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-17 13:41:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>55c81748db11230097d4f36f29961968</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_278895_cozen_cozen_doc" name="x_278895_cozen_cozen_doc" sys_domain="global" view="Default view">95c81748db11230097d4f36f29961961</sys_ui_form>
+            <sys_ui_section caption="Notes &amp; Descriptions" display_value="Notes &amp; Descriptions" name="x_278895_cozen_cozen_doc" sys_domain="global" view="Default view">d5c81748db11230097d4f36f29961960</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-17 20:41:45</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_278895_cozen_cozen_doc</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-17 13:41:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>95c81748db11230097d4f36f29961961</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_278895_cozen_cozen_doc</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Cozen" source="x_278895_cozen">bf1c5e62db81230097d4f36f2996192b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Cozen">bf1c5e62db81230097d4f36f2996192b</sys_scope>
+            <sys_update_name>sys_ui_form_sections_95c81748db11230097d4f36f29961961</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-17 13:41:43</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
