@@ -14,7 +14,7 @@
         <choice>3</choice>
         <choice_field/>
         <choice_table/>
-        <column_label>Case_Type</column_label>
+        <column_label>Case Type</column_label>
         <comments/>
         <create_roles/>
         <default_value>Criminal</default_value>
@@ -54,14 +54,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-10-17 13:36:36</sys_created_on>
         <sys_id>cf779308db11230097d4f36f2996198d</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>Case_Type</sys_name>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Case Type</sys_name>
         <sys_package display_value="Cozen" source="x_278895_cozen">bf1c5e62db81230097d4f36f2996192b</sys_package>
         <sys_policy/>
         <sys_scope display_value="Cozen">bf1c5e62db81230097d4f36f2996192b</sys_scope>
         <sys_update_name>sys_dictionary_x_278895_cozen_cozen_doc_case_type</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-10-17 20:03:26</sys_updated_on>
+        <sys_updated_on>2018-10-18 19:13:07</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
